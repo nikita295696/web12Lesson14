@@ -1,5 +1,7 @@
 <?php
 
+// Автозагрузка классов
+
 spl_autoload_register(function ($cls){
     include_once "$cls.php";
 });
