@@ -10,8 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e83dcc55-dbf9-4ead-92e4-168b11294156" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="e83dcc55-dbf9-4ead-92e4-168b11294156" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Students.txt" afterDir="false" />
+    </list>
+>>>>>>> 0264b6e249500911d8f521112acfbb19cf237c94
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +55,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -60,6 +67,10 @@
     <option name="y" value="97" />
     <option name="width" value="1440" />
     <option name="height" value="786" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+>>>>>>> 0264b6e249500911d8f521112acfbb19cf237c94
   </component>
   <component name="ProjectId" id="25FMs3ebJ6fUQ3mqbzAPsiqTnI1" />
   <component name="ProjectView">
@@ -87,6 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -121,7 +133,11 @@
       <option name="presentableId" value="Default" />
       <updated>1645118584207</updated>
       <workItem from="1645118585260" duration="2378000" />
+<<<<<<< HEAD
       <workItem from="1645125423363" duration="230000" />
+=======
+      <workItem from="1645124615886" duration="471000" />
+>>>>>>> 0264b6e249500911d8f521112acfbb19cf237c94
     </task>
     <servers />
   </component>
